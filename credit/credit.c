@@ -12,7 +12,6 @@ int checkdigits(long long num);
 int getdigit(long long num, int n);
 // referencing get first 2 digits, to get first2 digit of number
 int getheader(long long num);
-long long get_long(long long input);
 
 int main(void)
 {

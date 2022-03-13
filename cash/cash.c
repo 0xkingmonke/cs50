@@ -8,7 +8,7 @@ int calculate_nickels(int cents);
 int calculate_pennies(int cents);
 
 int main(void)
-{c
+{
     // Ask how many cents the customer is owed
     int cents = get_cents();
 
